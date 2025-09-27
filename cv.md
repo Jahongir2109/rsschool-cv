@@ -5,12 +5,12 @@
 **Location:** Tashkent, Uzbekistan  
 
 # Self-Introduction
-I am a passionate software developer with a strong interest in web development and a commitment to continuous learning. I enjoy tackling challenging problems and creating efficient solutions.
+I am a passionate software developer with a strong interest in web development and a commitment to continuous learning. I enjoy tackling challenging problems and creating efficient solutions.I am a dedicated Angular developer with a passion for building dynamic and responsive web applications. My goal is to deliver high-quality solutions that enhance user experience and drive business value. I thrive in collaborative environments, enjoy learning new technologies, and am committed to continuous professional growth. My strengths include strong problem-solving skills, attention to detail, and the ability to adapt quickly to new challenges. I am eager to contribute to innovative projects and further develop my expertise in modern web development.
 
 # Skills
 - **Programming Languages:** JavaScript, Python, HTML, CSS, TypeScript, Java
 - **Frameworks:** Angular, Node.js, Express
-- **Tools:** Git, Docker, Webpack
+- **Tools:** Git, Docker
 - **Databases:** MongoDB, Postgresql
 
 # Code Examples
@@ -22,7 +22,7 @@ function greet(name) {
 
 ```
 
-## Python Example
+## Python Example   
 ```python
 def greet(name):
     return f"Hello, {name}!"
