@@ -8,7 +8,7 @@
 I am a passionate software developer with a strong interest in web development and a commitment to continuous learning. I enjoy tackling challenging problems and creating efficient solutions.
 
 # Skills
-- **Programming Languages:** JavaScript, Python, HTML, CSS
+- **Programming Languages:** JavaScript, Python, HTML, CSS, TypeScript, Java
 - **Frameworks:** Angular, Node.js, Express
 - **Tools:** Git, Docker, Webpack
 - **Databases:** MongoDB, Postgresql
