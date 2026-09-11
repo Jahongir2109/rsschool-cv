@@ -59,6 +59,13 @@ pre, code {
   font-family: 'Fira Mono', 'Consolas', monospace;
   font-size: 1em;
 }
+pre {
+  margin: 0 0 1em 0;
+  overflow-x: auto;
+}
+pre:last-of-type {
+  margin-bottom: 0;
+}
 footer ul {
   list-style: none;
   display: flex;
